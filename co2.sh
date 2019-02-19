@@ -1,4 +1,4 @@
 #!/bin/sh
 
-./main.out /home/pi/a/sensor/co2_value.txt 28 29 100
+./main.out /home/pi/a/co2/co2_value.txt 28 29 100
 
