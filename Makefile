@@ -1,4 +1,4 @@
-# Makefile zur Demo
+# Makefile
 
 main.out: main.o fl_E2bus.o knl_E2bus.o
 	gcc main.o fl_E2bus.o knl_E2bus.o -o main.out -lwiringPi
